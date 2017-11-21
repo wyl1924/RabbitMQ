@@ -1,0 +1,5 @@
+E:\jobs\tfs2012\TxErp2\TxErp\ERP.RabbitMQ.RabbitMqConst\bin\Debug\ERP.RabbitMQ.RabbitMqConst.dll
+E:\jobs\tfs2012\TxErp2\TxErp\ERP.RabbitMQ.RabbitMqConst\bin\Debug\ERP.RabbitMQ.RabbitMqConst.pdb
+E:\jobs\tfs2012\TxErp2\TxErp\ERP.RabbitMQ.RabbitMqConst\obj\Debug\ERP.RabbitMQ.RabbitMqConst.dll
+E:\jobs\tfs2012\TxErp2\TxErp\ERP.RabbitMQ.RabbitMqConst\obj\Debug\ERP.RabbitMQ.RabbitMqConst.pdb
+E:\jobs\tfs2012\TxErp2\TxErp\ERP.RabbitMQ.RabbitMqConst\obj\Debug\ERP.RabbitMQ.RabbitMqConst.csprojResolveAssemblyReference.cache
