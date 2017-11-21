@@ -1,7 +1,0 @@
-E:\jobs\tfs2012\TxErp2\TxErp\ERP.RabbitMQ\bin\Debug\ERP.RabbitMQ.dll
-E:\jobs\tfs2012\TxErp2\TxErp\ERP.RabbitMQ\bin\Debug\ERP.RabbitMQ.pdb
-E:\jobs\tfs2012\TxErp2\TxErp\ERP.RabbitMQ\bin\Debug\log4net.dll
-E:\jobs\tfs2012\TxErp2\TxErp\ERP.RabbitMQ\bin\Debug\RabbitMQ.Client.dll
-E:\jobs\tfs2012\TxErp2\TxErp\ERP.RabbitMQ\obj\Debug\ERP.RabbitMQ.dll
-E:\jobs\tfs2012\TxErp2\TxErp\ERP.RabbitMQ\obj\Debug\ERP.RabbitMQ.pdb
-E:\jobs\tfs2012\TxErp2\TxErp\ERP.RabbitMQ\obj\Debug\ERP.RabbitMQ.csprojResolveAssemblyReference.cache
